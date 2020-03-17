@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(97,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(95): message : while compiling class template member function 'DynamicArray<data>::DataContainer *DynamicArray<data>::get(int)'
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(95): message :         with
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(95): message :         [
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(95): message :             data=int
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(95): message :         ]
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(72): message : see reference to function template instantiation 'DynamicArray<data>::DataContainer *DynamicArray<data>::get(int)' being compiled
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(72): message :         with
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(72): message :         [
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(72): message :             data=int
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(72): message :         ]
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\MaxHeap.h(47): message : see reference to class template instantiation 'DynamicArray<data>' being compiled
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\MaxHeap.h(47): message :         with
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\MaxHeap.h(47): message :         [
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\MaxHeap.h(47): message :             data=int
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\MaxHeap.h(47): message :         ]
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\main.cpp(8): message : see reference to class template instantiation 'MaxHeap<int>' being compiled
+C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Data Structures\DynamicArray.h(17): warning C4715: 'DynamicArray<int>::push': not all control paths return a value
+  Data Structures.vcxproj -> C:\Users\egan\OneDrive\C++ Projects\CS32\Data Structures\Debug\Data Structures.exe
